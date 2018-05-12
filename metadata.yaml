@@ -1,0 +1,26 @@
+_repo: The-Medici-Boots_32639
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32639-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Swet, Pearl Norton
+    gutenberg_agent_id: '35956'
+    url: http://www.gutenberg.org/2009/agents/35956
+description: ''
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Horror tales'
+title: The Medici Boots
+url: http://www.gutenberg.org/ebooks/32639
